@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/YYW0hHizzIOrlhimPG" width="474" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-system-alliance-YYW0hHizzIOrlhimPG">via GIPHY</a></p>" width="100"/>
+  <img src="https://giphy.com/embed/YYW0hHizzIOrlhimPG" width="100"/>
 </div>
+
 # Hi there, I'm Alper 👋
 
 ## Aspiring Software Engineer & AI Specialist
