@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div id="header" align="center">
+  <img src="<iframe src="https://giphy.com/embed/YYW0hHizzIOrlhimPG" width="474" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-system-alliance-YYW0hHizzIOrlhimPG">via GIPHY</a></p>" width="100"/>
+</div>
 # Hi there, I'm Alper 👋
 
 ## Aspiring Software Engineer & AI Specialist
@@ -96,4 +98,5 @@ As I embark on my professional journey, I aim to to contribute to and lead cutti
 ---
 
 *🌱 I’m currently diving deeper into Cloud Computing and Advanced AI Techniques.*
+
 *⚡ Fun fact: I enjoy participating in hackathons and coding challenges.*
