@@ -75,7 +75,7 @@ I recently graduated in Computer Science with a focus on Artificial Intelligence
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FF6F00?style=flat&logo=matplotlib&logoColor=white)
 
-- **Techniques**:
+
 - **Machine Learning**: Supervised and Unsupervised Learning, Decision Trees, SVM, XGBoost.
 - **Deep Learning**: CNNs, RNNs, GANs, Transfer Learning.
 - **Natural Language Processing**: Sentiment Analysis, Language Generation, Text Classification.
