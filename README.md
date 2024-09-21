@@ -36,21 +36,21 @@ I'm a Software Engineer specializing in Infrastructure and Cloud Engineering at 
 
 - **Languages**:
 
-- ![JavaScript (ES6+)](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black): Proficient in building web applications using JavaScript and TypeScript for both client-side and server-side development, ensuring type safety and scalable codebases.
+- ![JavaScript (ES6+)](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) Proficient in building web applications using JavaScript and TypeScript for both client-side and server-side development, ensuring type safety and scalable codebases.
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white): Expertise in Python for backend development, automation, and scripting tasks, with a focus on frameworks like Flask and Django for web services.
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Expertise in Python for backend development, automation, and scripting tasks, with a focus on frameworks like Flask and Django for web services.
 
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white): Experience in developing backend systems using Java, with a focus on object-oriented programming and enterprise-grade applications.
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) Experience in developing backend systems using Java, with a focus on object-oriented programming and enterprise-grade applications.
 
-- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white): Strong understanding of Rust for systems programming and backend services, with a focus on performance, safety, and concurrency.
+- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) Strong understanding of Rust for systems programming and backend services, with a focus on performance, safety, and concurrency.
 
 - **Front-End**:
 
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black): Proficient in building interactive, single-page applications (SPAs) using React.js, leveraging component-based architecture for maintainable and scalable front-end solutions.
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) Proficient in building interactive, single-page applications (SPAs) using React.js, leveraging component-based architecture for maintainable and scalable front-end solutions.
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white): Solid foundation in HTML5 and CSS3 for creating responsive and accessible user interfaces.
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) Solid foundation in HTML5 and CSS3 for creating responsive and accessible user interfaces.
 
-- ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-7952B3?style=flat&logo=bootstrap&logoColor=white): Utilized for rapid UI development, ensuring responsiveness and consistency across various devices and screen sizes.
+- ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-7952B3?style=flat&logo=bootstrap&logoColor=white) Utilized for rapid UI development, ensuring responsiveness and consistency across various devices and screen sizes.
 
 - **Back-End**:
 
@@ -64,23 +64,23 @@ I'm a Software Engineer specializing in Infrastructure and Cloud Engineering at 
 
 - **Cloud Engineering**:
 
-- ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white): Skilled in managing cloud resources with Azure, including virtual machines, databases, and Azure Kubernetes Service (AKS), while utilizing Azure Pipelines for continuous integration and deployment (CI/CD).
+- ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) Skilled in managing cloud resources with Azure, including virtual machines, databases, and Azure Kubernetes Service (AKS), while utilizing Azure Pipelines for continuous integration and deployment (CI/CD).
 
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white): Experience with AWS services for building scalable cloud applications, including EC2, S3, RDS, and Lambda functions.
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) Experience with AWS services for building scalable cloud applications, including EC2, S3, RDS, and Lambda functions.
 
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white): Expertise in orchestrating containerized applications with Kubernetes, ensuring high availability, scalability, and automated deployment strategies using AKS or GKE.
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) Expertise in orchestrating containerized applications with Kubernetes, ensuring high availability, scalability, and automated deployment strategies using AKS or GKE.
 
-- ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white): Proficient in using Terraform for Infrastructure-as-Code (IaC), automating cloud resource provisioning, and managing multi-cloud environments.
+- ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) Proficient in using Terraform for Infrastructure-as-Code (IaC), automating cloud resource provisioning, and managing multi-cloud environments.
 
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white): Utilized Docker for containerization, enabling consistent environments across development and production, and simplifying application deployment with Docker Compose.
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) Utilized Docker for containerization, enabling consistent environments across development and production, and simplifying application deployment with Docker Compose.
 
 - **CI/CD & DevOps**:
 
-- ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white): Set up automated workflows using GitHub Actions for continuous integration and deployment, with a focus on testing, security, and automated deployment pipelines.
+- ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) Set up automated workflows using GitHub Actions for continuous integration and deployment, with a focus on testing, security, and automated deployment pipelines.
 
-- ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white): Integrated Terraform and Docker for automated infrastructure provisioning and deployment in a DevOps environment, promoting repeatable and scalable infrastructure.
+- ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) Integrated Terraform and Docker for automated infrastructure provisioning and deployment in a DevOps environment, promoting repeatable and scalable infrastructure.
 
-- ![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat&logo=azure-pipelines&logoColor=white): Managed complex deployment pipelines for Azure-based services, integrating testing, containerization, and monitoring throughout the development lifecycle.
+- ![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat&logo=azure-pipelines&logoColor=white) Managed complex deployment pipelines for Azure-based services, integrating testing, containerization, and monitoring throughout the development lifecycle.
 
 
 - **Version Control**:
