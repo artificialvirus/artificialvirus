@@ -46,22 +46,31 @@ I'm a Software Engineer specializing in Infrastructure and Cloud Engineering at 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-7952B3?style=flat&logo=bootstrap&logoColor=white): Utilized for rapid UI development, ensuring responsiveness and consistency across various devices and screen sizes.
 
 - **Back-End**:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white): Used to build scalable server-side applications, leveraging asynchronous I/O and event-driven architecture for handling high-throughput scenarios.
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white): Built RESTful APIs and web services using Express.js for lightweight and efficient back-end solutions.
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white): Built RESTful APIs and web services using Express.js for lightweight and efficient back-end solutions.
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white )& ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white): Experience with relational databases (e.g., MySQL, PostgreSQL) and document-based NoSQL databases (e.g., MongoDB), focusing on data modeling, query optimization, and efficient data storage solutions.
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) Used to build scalable server-side applications, leveraging asynchronous I/O and event-driven architecture for handling high-throughput scenarios.
+
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) Built RESTful APIs and web services using Express.js for lightweight and efficient back-end solutions.
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) Built RESTful APIs and web services using Express.js for lightweight and efficient back-end solutions.
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white ) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) Experience with relational databases (e.g., MySQL, PostgreSQL) and document-based NoSQL databases (e.g., MongoDB), focusing on data modeling, query optimization, and efficient data storage solutions.
 
 - **Cloud Engineering**:
 <!-- Put the logos here -->
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white): Skilled in managing cloud resources with Azure, including virtual machines, databases, and Azure Kubernetes Service (AKS), while utilizing Azure Pipelines for continuous integration and deployment (CI/CD).
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white): Experience with AWS services for building scalable cloud applications, including EC2, S3, RDS, and Lambda functions.
+
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white): Expertise in orchestrating containerized applications with Kubernetes, ensuring high availability, scalability, and automated deployment strategies using AKS or GKE.
+
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white): Proficient in using Terraform for Infrastructure-as-Code (IaC), automating cloud resource provisioning, and managing multi-cloud environments.
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white): Utilized Docker for containerization, enabling consistent environments across development and production, and simplifying application deployment with Docker Compose.
 
 - **CI/CD & DevOps**:
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white): Set up automated workflows using GitHub Actions for continuous integration and deployment, with a focus on testing, security, and automated deployment pipelines.
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) & ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white): Integrated Terraform and Docker for automated infrastructure provisioning and deployment in a DevOps environment, promoting repeatable and scalable infrastructure.
+
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white): Integrated Terraform and Docker for automated infrastructure provisioning and deployment in a DevOps environment, promoting repeatable and scalable infrastructure.
+
 ![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat&logo=azure-pipelines&logoColor=white): Managed complex deployment pipelines for Azure-based services, integrating testing, containerization, and monitoring throughout the development lifecycle.
 
 
