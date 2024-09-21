@@ -48,7 +48,7 @@ I'm a Software Engineer specializing in Infrastructure and Cloud Engineering at 
 
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black): Proficient in building interactive, single-page applications (SPAs) using React.js, leveraging component-based architecture for maintainable and scalable front-end solutions.
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) & ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white): Solid foundation in HTML5 and CSS3 for creating responsive and accessible user interfaces.
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white): Solid foundation in HTML5 and CSS3 for creating responsive and accessible user interfaces.
 
 - ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-7952B3?style=flat&logo=bootstrap&logoColor=white): Utilized for rapid UI development, ensuring responsiveness and consistency across various devices and screen sizes.
 
