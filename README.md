@@ -75,7 +75,7 @@ I’m a Software Engineer at **SITA** focused on **cloud infrastructure** and **
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Utility-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
 ### Back-End & APIs
-![Node.js](https://img.shields.io/badge/Node.js- Runtime-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4.x-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-REST-092E20?style=flat&logo=django&logoColor=white)
 
@@ -113,7 +113,6 @@ I’m a Software Engineer at **SITA** focused on **cloud infrastructure** and **
 
 ## 📈 By the Numbers
 
-> These dynamic cards are optional. If you prefer a minimal README, remove this section.
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=artificialvirus&show_icons=true&hide_title=true&include_all_commits=true" height="140" alt="GitHub stats"/>
