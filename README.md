@@ -5,7 +5,7 @@
   <p>
     <a href="https://alperonder.dev"><img alt="Website" src="https://img.shields.io/badge/website-alperonder.dev-0A0A0A?style=flat&logo=google-chrome"></a>
     <a href="https://www.linkedin.com/in/alper-onder-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:contact@alperonder.dev"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40alperonder.dev-D14836?style=flat&logo=gmail&logoColor=white"></a>
+    <a href="mailto:contact@alperonder.dev"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40alperonder.dev-D14836?style=flat&logo=gmail&logoColor=white"></a>
   </p>
 </div>
 
