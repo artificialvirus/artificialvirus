@@ -116,7 +116,7 @@ I’m a Software Engineer at **SITA** focused on **cloud infrastructure** and **
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=artificialvirus&show_icons=true&hide_title=true&include_all_commits=true" height="140" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artificialvirus" height="140" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=artificialvirus" height="140" alt="GitHub streak"/>
 </p>
 
 ---
