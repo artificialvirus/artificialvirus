@@ -46,7 +46,7 @@ I’m a Software Engineer at **SITA** focused on **cloud infrastructure** and **
 - **LLM back-ends.** Supports OpenAI & Anthropic APIs and **local inference via Ollama**. For experiments: **publicly available lightweight local models (e.g., Llama 3.x Instruct)** for reproducibility.
 - **Ops & reliability.** Dockerized, k8s-ready, with caching, timeouts, deterministic fallbacks, and structured logs for observability.
 
-> 🔗 [Repository](https://github.com/artificialvirus/RefineX) Not public yet
+> 🔗 [Repository](https://github.com/artificialvirus/RefineX)
 
 - **Fraud Detection in Financial Transactions**  
   Anomaly detection and feature-importance modeling to flag suspicious activity.  
