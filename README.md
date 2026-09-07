@@ -87,7 +87,7 @@ Drift detection · Fairness monitoring · ClickHouse-backed event pipelines
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artificialvirus&show_icons=true&hide_title=true&include_all_commits=true&theme=default" height="140"/>
+  <img src="https://vercel.app" height="140"/>
   <img src="https://streak-stats.demolab.com?user=artificialvirus&theme=default" height="140"/>
 </p>
 
@@ -99,7 +99,6 @@ Drift detection · Fairness monitoring · ClickHouse-backed event pipelines
 <p align="center">
   <img src="https://komarev.com" alt="artificialvirus profile views" height="35" />
 </p>
-
 ---
 
 *Open to interesting problems in infrastructure, developer tooling, and agentic systems.*
