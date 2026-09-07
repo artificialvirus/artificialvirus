@@ -25,14 +25,14 @@ and verification-guided reasoning systems.
 
 Core stack: **Go · TypeScript · Python · Kubernetes · Terraform · Azure · GCP**
 
-Building **[Krynix](https://github.com/PROJECT-OBA/krynix)** — an open-source agent behavioural 
+Building **[Krynix](https://krynix.io/)** — an open-source agent behavioural 
 trust layer for agentic systems.
 
 ---
 
 ## Featured Projects
 
-### [Krynix](https://github.com/PROJECT-OBA/krynix)
+### [Krynix](https://krynix.io/)
 Agent behavioural trust verification toolkit. Traces agent action sequences, detects anomalies in 
 decision trajectories, and acts as a CI gate to block deployment of agents exhibiting unexpected 
 behaviour. Framework-agnostic, local-first, zero data exfiltration.
@@ -86,9 +86,18 @@ Drift detection · Fairness monitoring · ClickHouse-backed event pipelines
 
 ## GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=artificialvirus&show_icons=true&hide_title=true&include_all_commits=true&theme=default" height="140"/>
   <img src="https://streak-stats.demolab.com?user=artificialvirus&theme=default" height="140"/>
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" height="140" />
+  <img src="https://vercel.app" height="140" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com" alt="artificialvirus profile views" height="35" />
 </p>
 
 ---
